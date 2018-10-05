@@ -1,8 +1,12 @@
 new
 mod1
+<<<<<<< Upstream, based on origin/common
 mod2
 mod3
 mod4
 mod5
 mod6
 mod7
+=======
+mod b2
+>>>>>>> de8edd3 mod b2
